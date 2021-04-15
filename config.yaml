@@ -1,0 +1,44 @@
+baseURL: 'https://james.goodhouse.io/'
+languageCode: en-us
+title: goodhouse.io
+theme: papermod
+menu:
+  main:
+  - identifier: contact
+    name: contact
+    url: /contact/
+    weight: 1
+  - identifier: resume
+    name: resume
+    url: /resume/
+    weight: 2
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON # is necessary
+params:
+  env: production
+  author: James Goodhouse
+  ShowShareButtons: false
+  homeInfoParams:
+    Title: Title
+    Content: Content
+  profileMode:
+    enabled: true
+    title: James Goodhouse
+    subtitle: Subtitle
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/en/b/b3/Taco_Bell_2016.svg'
+    imageTitle: tacobell
+    buttons:
+    - name: Button 1
+      url: /button-1
+    - name: Button 2
+      url: /button-2
+  socialIcons:
+  - name: github
+    url: 'https://github.com/jamesgoodhouse/'
+  - name: instagram
+    url: 'https://www.instagram.com/jamgood96/'
+  - name: linkedin
+    url: 'https://linkedin.com/in/jamesgoodhouse/'

@@ -1,17 +1,14 @@
 baseURL: 'https://james.goodhouse.io/'
 languageCode: en-us
 title: goodhouse.io
+copyright: © 2021 James Goodhouse
 theme: papermod
 menu:
   main:
-  - identifier: contact
-    name: contact
-    url: /contact/
+  - identifier: blog
+    name: blog
+    url: /blog/
     weight: 1
-  - identifier: resume
-    name: resume
-    url: /resume/
-    weight: 2
 outputs:
   home:
   - HTML
@@ -20,21 +17,14 @@ outputs:
 params:
   env: production
   author: James Goodhouse
-  ShowShareButtons: false
-  homeInfoParams:
-    Title: Title
-    Content: Content
+  ShowShareButtons: true
   profileMode:
     enabled: true
     title: James Goodhouse
-    subtitle: Subtitle
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/en/b/b3/Taco_Bell_2016.svg'
+    subtitle: I'm a mild tech nerd and an avid outdoor enthusiast that loves running, hiking, backpacking, and motorcycling.
+    imageUrl: 'headshot.jpg'
     imageTitle: tacobell
-    buttons:
-    - name: Button 1
-      url: /button-1
-    - name: Button 2
-      url: /button-2
+    buttons: []
   socialIcons:
   - name: github
     url: 'https://github.com/jamesgoodhouse/'
@@ -42,3 +32,7 @@ params:
     url: 'https://www.instagram.com/jamgood96/'
   - name: linkedin
     url: 'https://linkedin.com/in/jamesgoodhouse/'
+permalinks:
+  blog: /blog/:year/:month/:day/:slug
+  tags: /blog/tags/:slug
+pluralizelisttitles: false

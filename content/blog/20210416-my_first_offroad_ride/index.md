@@ -5,18 +5,15 @@ categories: ["motorcycling"]
 tags:
 - adv
 - alpinestars
+- columbia river gorge
 - gear
 - gloves
 - klim
 - pants
 - tiger 900
 - triumph
-author: "James Goodhouse"
-comments: false
 draft: true
 description: "An impromptu ride after work led to some fun adventuring off-road for the first time."
-hideSummary: false
-searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -30,9 +27,9 @@ cover:
 
 Tonight I went for my first "off-road" adventure. Sure, this wasn't a hardcore affair, and it wasn't exactly entirely intentional either, but the pavement ended and the ride was tricky, so off-road it was!
 
-It started after a long day of work. I rode out torward the Columbia River Gorge via Marine Drive, and then worked my way over to the {{<newtabref title="Historic Columbia River Highway" href="https://www.oregon.gov/odot/regions/pages/historic-columbia-river-highway.aspx">}}. From there I decided to try my luck on {{<newtabref title="Larch Mountain Road" href="https://multco.us/roads/larch-mountain-road">}}, but soon discovered it was "closed 10 miles ahead". On the off chance the sign was lying to me I opted to find out for myself. Ten miles later, some dropping temps flowing through my mesh riding jacket, and a small snow crossing, and yep, it sure was closed. On my way up I noted spur roads that would be fun to checkout, so I decided to turn off on one of these on the way down.
+I rode out torward the {{<newtabref title="Columbia River Gorge" href="https://traveloregon.com/places-to-go/regions/columbia-river-gorge/">}} via Marine Drive after work, and then worked my way over to the {{<newtabref title="Historic Columbia River Highway" href="https://www.oregon.gov/odot/regions/pages/historic-columbia-river-highway.aspx">}}. From there I decided to try my luck on {{<newtabref title="Larch Mountain Road" href="https://multco.us/roads/larch-mountain-road">}}, but soon discovered it was "closed 10 miles ahead". On the off chance the sign was lying to me, I opted to find out for myself. Ten miles later, some dropping temps flowing through my mesh riding jacket, and a small snow crossing, and yep, it sure was closed. On my way up I noted several side roads that would be fun to checkout, so I decided to turn on to one of these on the way down.
 
-Unbeknownst to me, the spur road I chose turned into gravel several miles in. I was concerned it might deadend into someone's house but I decided to keep riding, as this was a good chance to test out my new bike and to begin to hone my off-pavement riding technique.
+Unbeknownst to me, the road I had chosen turned into gravel several miles in. I was concerned it might dead end into someone's house, but I decided to keep riding, as this was a good chance to test out my new bike and to begin to hone my off-pavement riding technique.
 
 ---
 

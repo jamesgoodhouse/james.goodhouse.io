@@ -17,7 +17,7 @@ cover:
   hidden: true # only hide on current single page
 ---
 
-Today I brought a new motorcycle; a {{<newtabref title="2021 Triump Tiger 900 RALLY Pro" href="https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900-rally/rally-pro">}}. I picked the yet-to-be-named bike up from {{<newtabref title="Cascade Moto Classics" href="https://www.cascademoto.com/">}}. This is my 5th motorcycle, and my second Triumph.
+Today I brought home a new motorcycle; a {{<newtabref title="2021 Triump Tiger 900 RALLY Pro" href="https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900-rally/rally-pro">}}. I picked the yet-to-be-named bike up from {{<newtabref title="Cascade Moto Classics" href="https://www.cascademoto.com/">}}. This is my 5th motorcycle, and my second Triumph.
 
 {{<figure src="home_sweet_home.jpg" caption="Home, sweet home. The Tiger home from its first ride." alt="New Tiger at its new home" title="2021 Triump Tiger 900 RALLY Pro">}}
 

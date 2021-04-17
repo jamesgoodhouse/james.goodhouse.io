@@ -35,6 +35,9 @@ params:
     url: 'https://www.instagram.com/jamgood96/'
   - name: linkedin
     url: 'https://linkedin.com/in/jamesgoodhouse/'
+  analytics:
+    google:
+      SiteVerificationTag: G-1F7F1XWKXE
 permalinks:
   blog: /blog/:year/:month/:day/:slug
   tags: /blog/tags/:slug

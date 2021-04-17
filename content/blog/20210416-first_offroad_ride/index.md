@@ -1,9 +1,9 @@
 ---
 title: "First Off-Road Ride"
 date: 2021-04-16T22:30:00+00:00
+categories: ["motorcycling"]
 tags: ["adv"]
 author: "James Goodhouse"
-categories: ["motorcycling"]
 comments: false
 draft: true
 description: "An impromptu ride after work led to some fun adventuring off-road for the first time."

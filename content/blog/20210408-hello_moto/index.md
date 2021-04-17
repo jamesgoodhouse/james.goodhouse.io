@@ -1,11 +1,11 @@
 ---
 title: "Hello Moto"
 date: 2021-04-08
-tags: []
-author: "James Goodhouse"
 categories: ["motorcycling"]
+tags: ["triumph", "tiger 900"]
+author: "James Goodhouse"
 comments: false
-hideSummary: false
+summary: "I brought home a new 2021 Triumph Tiger 900 RALLY Pro!"
 searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true

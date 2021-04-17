@@ -1,0 +1,36 @@
+.form {
+  background-color: var(--code-bg);
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  margin: 0 2px 40px;
+  padding: var(--gap);
+}
+
+.form-input {
+  background-color: var(--theme);
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  box-sizing: border-box;
+  color: var(--content);
+  margin-bottom: 10px;
+  padding: 0.4em;
+  width: 100%;
+}
+.form-input:focus {
+  border: 1px solid var(--content);
+}
+
+.form-textarea {
+  height: 150px;
+  line-height: 150%;
+  resize:vertical;
+}
+
+.form-submit-button {
+  background: var(--tertiary);
+  border-radius: var(--radius);
+  display: block;
+  margin: 10px auto 0;
+  padding: 6px 14px 6px 14px;
+  transition: transform 0.1s;
+}

@@ -5,7 +5,7 @@ categories: ["motorcycling"]
 tags: ["triumph", "tiger 900"]
 author: "James Goodhouse"
 comments: false
-summary: "I brought home a new 2021 Triumph Tiger 900 RALLY Pro!"
+summary: "Today I brought home a new 2021 Triumph Tiger 900 RALLY Pro from Cascade Moto Classics!"
 searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true

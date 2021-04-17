@@ -21,7 +21,7 @@ params:
   profileMode:
     enabled: true
     title: James Goodhouse
-    subtitle: I'm a mild tech nerd and an avid outdoor enthusiast that loves running, hiking, backpacking, and motorcycling.
+    subtitle: I'm a tech nerd and an avid outdoor enthusiast that loves running, hiking, backpacking, and motorcycling.
     imageUrl: 'headshot.jpg'
     imageTitle: tacobell
     buttons:

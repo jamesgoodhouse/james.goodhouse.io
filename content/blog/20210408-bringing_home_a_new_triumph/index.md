@@ -4,6 +4,7 @@ date: 2021-04-08
 categories: ["motorcycling"]
 tags:
 - cascade moto classics
+- thruxton
 - tiger 900
 - triumph
 author: "James Goodhouse"

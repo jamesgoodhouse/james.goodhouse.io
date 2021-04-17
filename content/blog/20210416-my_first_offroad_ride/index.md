@@ -1,6 +1,6 @@
 ---
-title: "First Off-Road Ride"
-date: 2021-04-16T22:30:00+00:00
+title: "My First Off-Road Ride"
+date: 2021-04-16
 categories: ["motorcycling"]
 tags:
 - adv
@@ -21,11 +21,19 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-  image: cover.jpg
-  alt: "tacobell"
+  image: bike_at_sunset.jpg
+  alt: "Bike at sunset with Columbia River Gorge in background"
   caption: "Stopped for a quick sunset pic of the Columbia River Gorge up above Angels Rest trailhead."
   relative: true
   hidden: false # only hide on current single page
+---
+
+Tonight I went for my first "off-road" adventure. Sure, this wasn't a hardcore affair, and it wasn't exactly entirely intentional either, but the pavement ended and the ride was tricky, so off-road it was!
+
+It started after a long day of work. I rode out torward the Columbia River Gorge via Marine Drive, and then worked my way over to the {{<newtabref title="Historic Columbia River Highway" href="https://www.oregon.gov/odot/regions/pages/historic-columbia-river-highway.aspx">}}. From there I decided to try my luck on {{<newtabref title="Larch Mountain Road" href="https://multco.us/roads/larch-mountain-road">}}, but soon discovered it was "closed 10 miles ahead". On the off chance the sign was lying to me I opted to find out for myself. Ten miles later, some dropping temps flowing through my mesh riding jacket, and a small snow crossing, and yep, it sure was closed. On my way up I noted spur roads that would be fun to checkout, so I decided to turn off on one of these on the way down.
+
+Unbeknownst to me, the spur road I chose turned into gravel several miles in. I was concerned it might deadend into someone's house but I decided to keep riding, as this was a good chance to test out my new bike and to begin to hone my off-pavement riding technique.
+
 ---
 
 opted to go with offroad mode instead of offroad mode pro. not super familiar with what the settings are, and lots of lights on the dash lit up with warnings and acronyms that i probably should have studied up on before heading out.

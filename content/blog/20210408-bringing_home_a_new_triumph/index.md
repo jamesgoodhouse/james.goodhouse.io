@@ -3,8 +3,7 @@ title: "Bringing Home a New Triumph"
 date: 2021-04-08
 categories: ["motorcycling"]
 tags:
-- cascade moto classics
-- thruxton
+- adv
 - tiger 900
 - triumph
 author: "James Goodhouse"
@@ -15,8 +14,8 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-  image: dealer_1.jpg
-  alt: "tacobell"
+  image: dealer.jpg
+  alt: "Motorcycle at dealer ready for pickup"
   caption: "A quick shot sent over from the dealer on the day I picked it up"
   relative: true
   hidden: true # only hide on current single page

@@ -24,7 +24,9 @@ params:
     subtitle: I'm a mild tech nerd and an avid outdoor enthusiast that loves running, hiking, backpacking, and motorcycling.
     imageUrl: 'headshot.jpg'
     imageTitle: tacobell
-    buttons: []
+    buttons:
+      - name: Blog
+        url: "/blog"
   socialIcons:
   - name: github
     url: 'https://github.com/jamesgoodhouse/'

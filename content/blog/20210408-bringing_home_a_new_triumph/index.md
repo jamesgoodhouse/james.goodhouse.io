@@ -1,8 +1,8 @@
 ---
-title: "Hello Moto"
+title: "Bringing Home a New Triumph"
 date: 2021-04-08
 categories: ["motorcycling"]
-tags: ["triumph", "tiger 900"]
+tags: ["triumph", "tiger 900", "cascade moto classics"]
 author: "James Goodhouse"
 comments: false
 summary: "Today I brought home a new 2021 Triumph Tiger 900 RALLY Pro from Cascade Moto Classics!"

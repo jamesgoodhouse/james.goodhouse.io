@@ -1,8 +1,9 @@
 ---
 title: "Hello Moto"
 date: 2021-04-08
-tags: ["motorcycling"]
+tags: []
 author: "James Goodhouse"
+categories: ["motorcycling"]
 comments: false
 hideSummary: false
 searchHidden: true

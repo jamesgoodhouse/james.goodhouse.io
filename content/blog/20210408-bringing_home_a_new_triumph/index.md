@@ -6,7 +6,7 @@ tags:
 - adv
 - tiger 900
 - triumph
-summary: "Today I brought home a new 2021 Triumph Tiger 900 RALLY Pro from Cascade Moto Classics!"
+summary: "Today I brought home a new 2021 Triumph Tiger 900 Rally Pro from Cascade Moto Classics!"
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -18,7 +18,7 @@ cover:
   hidden: true # only hide on current single page
 ---
 
-Today I brought home a new motorcycle; a {{<newtabref title="2021 Triumph Tiger 900 RALLY Pro" href="https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900-rally/rally-pro">}}. I picked the yet-to-be-named bike up from {{<newtabref title="Cascade Moto Classics" href="https://www.cascademoto.com/">}}. This is my 5th motorcycle, and my second Triumph.
+Today I brought home a new motorcycle; a {{<newtabref title="2021 Triumph Tiger 900 Rally Pro" href="https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900-rally/rally-pro">}}. I picked the yet-to-be-named bike up from {{<newtabref title="Cascade Moto Classics" href="https://www.cascademoto.com/">}}. This is my 5th motorcycle, and my second Triumph.
 
 {{<figure src="home_sweet_home.jpg" caption="Home, sweet home. The Tiger home from its first ride." alt="New Tiger at its new home">}}
 
@@ -28,6 +28,6 @@ I've been hemming and hawing for at least the past year, if not longer, about ge
 
 {{<figure src="garage.jpg" caption="Nestled into tight quarters, but it'll work." alt="Motorcycle nestled into single car garage">}}
 
-The Tiger is a 900cc {{<newtabref title="inline triple" href="https://en.wikipedia.org/wiki/Triumph_Triple">}}. It puts out around 90 horsepower, which is more than enough to get me out of any trouble I find myself in while off-road, and more than enough to get me into plenty of trouble on-road. In the RALLY Pro trim, the Tiger comes with a plethora of off-road focused ammenedies such as engine bars, a skid plate, fog lights, {{<newtabref title="Showa" href="https://www.showa1.com/en/product/motorcycle/index.html">}} suspension front and rear, and tubeless spoked wheels. It also has led lighting, tire pressure monitors, heated grips and seats, and a quick shift system to make road riding a dream.
+The Tiger is a 900cc {{<newtabref title="inline triple" href="https://en.wikipedia.org/wiki/Triumph_Triple">}}. It puts out around 90 horsepower, which is more than enough to get me out of any trouble I find myself in while off-road, and more than enough to get me into plenty of trouble on-road. In the Rally Pro trim, the Tiger comes with a plethora of off-road focused ammenedies such as engine bars, a skid plate, fog lights, {{<newtabref title="Showa" href="https://www.showa1.com/en/product/motorcycle/index.html">}} suspension front and rear, and tubeless spoked wheels. It also has led lighting, tire pressure monitors, heated grips and seats, and a quick shift system to make road riding a dream.
 
 All in all I love this bike. I have only logged a handful of miles so far, but the year is young and I have great plans in store for me and this bike! Stay tuned!

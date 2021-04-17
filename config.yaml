@@ -23,8 +23,8 @@ params:
     enabled: true
     title: James Goodhouse
     subtitle: I'm a tech nerd who loves loves trail running, hiking, backpacking, and motorcycling.
-    imageUrl: 'headshot.jpg'
-    imageTitle: tacobell
+    imageUrl: 'images/headshot.jpg'
+    imageTitle: Me, looking good.
     buttons:
     - name: Blog
       url: "/blog"

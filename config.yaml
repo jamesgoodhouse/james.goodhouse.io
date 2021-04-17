@@ -9,6 +9,7 @@ menu:
     name: blog
     url: /blog/
     weight: 1
+googleAnalytics: G-1F7F1XWKXE
 outputs:
   home:
   - HTML
@@ -35,7 +36,6 @@ params:
     url: 'https://www.instagram.com/jamgood96/'
   - name: linkedin
     url: 'https://linkedin.com/in/jamesgoodhouse/'
-  googleAnalytics: G-1F7F1XWKXE
 permalinks:
   blog: /blog/:year/:month/:day/:slug
   tags: /blog/tags/:slug

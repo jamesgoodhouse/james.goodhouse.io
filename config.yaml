@@ -16,7 +16,6 @@ outputs:
   - RSS
   - JSON # is necessary
 params:
-  env: production
   author: James Goodhouse
   description: The home of all things me and the things I love.
   ShowShareButtons: true

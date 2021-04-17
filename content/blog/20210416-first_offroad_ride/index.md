@@ -2,7 +2,15 @@
 title: "First Off-Road Ride"
 date: 2021-04-16T22:30:00+00:00
 categories: ["motorcycling"]
-tags: ["adv"]
+tags:
+- adv
+- alpinestars
+- gear
+- gloves
+- klim
+- pants
+- tiger 900
+- triumph
 author: "James Goodhouse"
 comments: false
 draft: true

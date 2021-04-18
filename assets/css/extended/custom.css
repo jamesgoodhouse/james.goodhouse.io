@@ -1,5 +1,9 @@
+body:not(.dark) {
+  background: var(--code-bg);
+}
+
 .form {
-  background-color: var(--code-bg);
+  background-color: var(--entry);
   border-radius: var(--radius);
   border: 1px solid var(--border);
   margin: 0 2px 40px;
@@ -7,7 +11,7 @@
 }
 
 .form-input {
-  background-color: var(--theme);
+  background-color: var(--code-bg);
   border-radius: var(--radius);
   border: 1px solid var(--border);
   box-sizing: border-box;
@@ -16,6 +20,7 @@
   padding: 0.4em;
   width: 100%;
 }
+
 .form-input:focus {
   border: 1px solid var(--content);
 }
@@ -32,5 +37,8 @@
   display: block;
   margin: 10px auto 0;
   padding: 6px 14px 6px 14px;
-  transition: transform 0.1s;
+}
+
+.form-submit-button:focus {
+  outline: none;
 }

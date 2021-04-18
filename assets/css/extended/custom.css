@@ -10,6 +10,19 @@ body:not(.dark) {
   background: var(--entry);
 }
 
+#contact_message {
+  display: none;
+}
+
+  #contact_message.success {
+    border-radius: var(--radius);
+    border: 1px solid greenyellow;
+    display: inherit;
+    margin-bottom: 30px;
+    padding: 10px;
+    text-align: center;
+  }
+
 .form {
   background-color: var(--entry);
   border-radius: var(--radius);
@@ -18,35 +31,35 @@ body:not(.dark) {
   padding: var(--gap);
 }
 
-.form-input {
-  background-color: var(--code-bg);
-  border-radius: var(--radius);
-  border: 1px solid var(--border);
-  box-sizing: border-box;
-  color: var(--content);
-  margin-bottom: 10px;
-  padding: 0.4em;
-  width: 100%;
-}
+  .form-input {
+    background-color: var(--code-bg);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    box-sizing: border-box;
+    color: var(--content);
+    margin-bottom: 10px;
+    padding: 0.4em;
+    width: 100%;
+  }
 
-.form-input:focus {
-  border: 1px solid var(--content);
-}
+    .form-input:focus {
+      border: 1px solid var(--content);
+    }
 
-.form-textarea {
-  height: 150px;
-  line-height: 150%;
-  resize:vertical;
-}
+  .form-textarea {
+    height: 150px;
+    line-height: 150%;
+    resize:vertical;
+  }
 
-.form-submit-button {
-  background: var(--tertiary);
-  border-radius: var(--radius);
-  display: block;
-  margin: 10px auto 0;
-  padding: 6px 14px 6px 14px;
-}
+  .form-submit-button {
+    background: var(--tertiary);
+    border-radius: var(--radius);
+    display: block;
+    margin: 10px auto 0;
+    padding: 6px 14px 6px 14px;
+  }
 
-.form-submit-button:focus {
-  outline: none;
-}
+  .form-submit-button:focus {
+    outline: none;
+  }

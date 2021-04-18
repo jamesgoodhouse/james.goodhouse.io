@@ -1,5 +1,10 @@
 ---
 title: Contact
 description: Drop me a note and say hello!
-layout: contact
+layout: single
+hideMeta: true
+disableShare: true
+ShowPostNavLinks: false
 ---
+
+{{<contactform>}}

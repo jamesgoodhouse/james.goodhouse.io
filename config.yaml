@@ -8,7 +8,9 @@ menu:
   - identifier: blog
     name: blog
     url: /blog/
-    weight: 1
+  - identifier: contact
+    name: contact
+    url: /contact/
 googleAnalytics: G-1F7F1XWKXE
 outputs:
   home:
@@ -19,6 +21,7 @@ params:
   author: James Goodhouse
   description: The home of all things me and the things I love.
   ShowShareButtons: true
+  ShowPostNavLinks: true
   profileMode:
     enabled: true
     title: James Goodhouse
@@ -28,6 +31,8 @@ params:
     buttons:
     - name: Blog
       url: "/blog"
+    - name: Contact
+      url: "/contact"
   socialIcons:
   - name: github
     url: 'https://github.com/jamesgoodhouse/'

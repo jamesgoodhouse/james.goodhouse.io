@@ -2,6 +2,14 @@ body:not(.dark) {
   background: var(--code-bg);
 }
 
+.post-tags li a {
+  background: var(--entry);
+}
+
+.share-buttons {
+  background: var(--entry);
+}
+
 .form {
   background-color: var(--entry);
   border-radius: var(--radius);

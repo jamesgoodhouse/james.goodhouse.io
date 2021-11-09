@@ -8,9 +8,9 @@ menu:
   - identifier: blog
     name: blog
     url: /blog/
-  - identifier: contact
-    name: contact
-    url: /contact/
+  # - identifier: contact
+  #   name: contact
+  #   url: /contact/
 googleAnalytics: G-1F7F1XWKXE
 outputs:
   home:
@@ -31,8 +31,8 @@ params:
     buttons:
     - name: Blog
       url: "/blog"
-    - name: Contact
-      url: "/contact"
+    # - name: Contact
+    #   url: "/contact"
   socialIcons:
   - name: github
     url: 'https://github.com/jamesgoodhouse/'
